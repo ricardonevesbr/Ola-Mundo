@@ -28,5 +28,5 @@ _Itálico também_
 **Checklist:**
 - [ ] Item 1
 - [x] Item 2
-- [x] Item 3
+- [ ] Item 3
 - [ ] Item 4
